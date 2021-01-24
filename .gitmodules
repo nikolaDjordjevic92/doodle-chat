@@ -1,0 +1,3 @@
+[submodule "doodle-chat-ui"]
+	path = doodle-chat-ui
+	url = https://github.com/nikolaDjordjevic92/doodle-chat-ui
