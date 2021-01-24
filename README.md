@@ -4,6 +4,8 @@ Doodle chat app.
 
 ## Available Scripts
 
+After downloading from the git repo, you will need to execute folowing command: git submodule update --init --recursive
+
 In the project directory, you can run:
 
 ### `docker-compose up`
